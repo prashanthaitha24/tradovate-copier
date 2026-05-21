@@ -50,12 +50,6 @@ Full design: [`ARCHITECTURE.md`](./ARCHITECTURE.md).
 
 **Pre-alpha.** Nothing here trades real money yet. See [`Plans.md`](./Plans.md) for the Phase 1 build plan.
 
-## ⚠️ Disclaimers
-
-- **Read your prop firm's Terms of Service before using this.** Copying among your own funded accounts is generally allowed at Apex / TradeDay / MyFundedFutures. FTMO, Topstep, and others have rules — verify first. Using this in violation of a prop firm's ToS can void your account.
-- This software is provided **as-is**. Futures trading carries substantial risk of loss. The risk engine is a defense in depth, not a guarantee.
-- The author is not responsible for blown accounts, lost funding, or violations of any third-party agreement.
-
 ## License
 
 MIT — see [LICENSE](./LICENSE).
